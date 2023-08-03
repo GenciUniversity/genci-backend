@@ -1,0 +1,81 @@
+[{
+        "name": "Introduction to JavaScript",
+        "educator": "John Doe",
+        "duration": 20,
+        "courseType": "Practical",
+        "category": "Technology",
+        "price": 50
+    },
+    {
+        "name": "Biology Basics",
+        "educator": "Jane Smith",
+        "duration": 15,
+        "courseType": "Knowledge",
+        "category": "Science",
+        "price": 40
+    },
+    {
+        "name": "Python Fundamentals",
+        "educator": "Alice Johnson",
+        "duration": 25,
+        "courseType": "Practical",
+        "category": "Technology",
+        "price": 60
+    },
+    {
+        "name": "Introduction to Medicine",
+        "educator": "Dr. Robert Johnson",
+        "duration": 30,
+        "courseType": "Knowledge",
+        "category": "Medicine",
+        "price": 70
+    },
+    {
+        "name": "Data Science with Python",
+        "educator": "Mark Davis",
+        "duration": 40,
+        "courseType": "Practical",
+        "category": "Technology",
+        "price": 80
+    },
+    {
+        "name": "Mathematics for Beginners",
+        "educator": "Emily Wilson",
+        "duration": 12,
+        "courseType": "Knowledge",
+        "category": "Science",
+        "price": 35
+    },
+    {
+        "name": "Advanced Web Development",
+        "educator": "Alex Brown",
+        "duration": 50,
+        "courseType": "Practical",
+        "category": "Technology",
+        "price": 90
+    },
+    {
+        "name": "Anatomy and Physiology",
+        "educator": "Dr. Samantha Roberts",
+        "duration": 28,
+        "courseType": "Knowledge",
+        "category": "Medicine",
+        "price": 65
+    },
+    {
+        "name": "Machine Learning Basics",
+        "educator": "Michael Smith",
+        "duration": 22,
+        "courseType": "Practical",
+        "category": "Technology",
+        "price": 55
+    },
+    {
+        "name": "Physics Fundamentals",
+        "educator": "David Johnson",
+        "duration": 18,
+        "courseType": "Knowledge",
+        "category": "Science",
+        "price": 45
+    }
+]
