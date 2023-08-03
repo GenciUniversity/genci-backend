@@ -1,81 +1,81 @@
 [{
-        "name": "Introduction to JavaScript",
+        "name": "Web Development Fundamentals",
         "educator": "John Doe",
         "duration": 20,
         "courseType": "Practical",
-        "category": "Technology",
+        "category": "webdev",
         "price": 50
     },
     {
-        "name": "Biology Basics",
+        "name": "App Development Basics",
         "educator": "Jane Smith",
         "duration": 15,
         "courseType": "Knowledge",
-        "category": "Science",
+        "category": "appdev",
         "price": 40
     },
     {
-        "name": "Python Fundamentals",
+        "name": "Blockchain Technology Explained",
         "educator": "Alice Johnson",
         "duration": 25,
         "courseType": "Practical",
-        "category": "Technology",
+        "category": "blockchain",
         "price": 60
     },
     {
-        "name": "Introduction to Medicine",
+        "name": "Introduction to Cybersecurity",
         "educator": "Dr. Robert Johnson",
         "duration": 30,
         "courseType": "Knowledge",
-        "category": "Medicine",
+        "category": "security",
         "price": 70
     },
     {
-        "name": "Data Science with Python",
+        "name": "Web Application Security",
         "educator": "Mark Davis",
         "duration": 40,
         "courseType": "Practical",
-        "category": "Technology",
+        "category": "security",
         "price": 80
     },
     {
-        "name": "Mathematics for Beginners",
+        "name": "React.js Essentials",
         "educator": "Emily Wilson",
         "duration": 12,
         "courseType": "Knowledge",
-        "category": "Science",
+        "category": "webdev",
         "price": 35
     },
     {
-        "name": "Advanced Web Development",
+        "name": "Blockchain in Supply Chain",
         "educator": "Alex Brown",
         "duration": 50,
         "courseType": "Practical",
-        "category": "Technology",
+        "category": "blockchain",
         "price": 90
     },
     {
-        "name": "Anatomy and Physiology",
+        "name": "Ethical Hacking Fundamentals",
         "educator": "Dr. Samantha Roberts",
         "duration": 28,
         "courseType": "Knowledge",
-        "category": "Medicine",
+        "category": "security",
         "price": 65
     },
     {
-        "name": "Machine Learning Basics",
+        "name": "Mobile App Development",
         "educator": "Michael Smith",
         "duration": 22,
         "courseType": "Practical",
-        "category": "Technology",
+        "category": "appdev",
         "price": 55
     },
     {
-        "name": "Physics Fundamentals",
+        "name": "Python for Data Science",
         "educator": "David Johnson",
         "duration": 18,
         "courseType": "Knowledge",
-        "category": "Science",
+        "category": "data science",
         "price": 45
     }
 ]

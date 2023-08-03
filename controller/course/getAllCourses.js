@@ -2,6 +2,8 @@ import Course from "../../models/Course.js";
 
 export const getAllCourses = async (req, res) => {
   try {
+
+    // will return documents in the array
     const courses = await Course.find({});
     if (!courses.length) {
       throw Error("Course not present");
