@@ -55,3 +55,16 @@ exports.signup = async (req, res) => {
     res.status(500).json({ message: error.message || "Error Occoured in registiring user" });
   }
 };
+
+exports.getAllUser = async(req , res)=>{
+  try{
+    const user = await Userdb.find({});
+    if(!user){
+      throw Error("NO user found!")
+    }
+    res.status(200).json(user);
+  }
+  catch(err){
+    res.status(401).json({status :"failse" , error : err ||"An Errro Occoured" })
+  }
+}

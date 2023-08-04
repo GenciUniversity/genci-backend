@@ -17,3 +17,4 @@ app.listen(PORT, () => {
 })
 
 app.use('/auth', require('./server/routes/authRoute'))
+app.use('/courses', require('./server/routes/coursesRoute'))
