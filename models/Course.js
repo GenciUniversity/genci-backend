@@ -9,6 +9,12 @@ const courseSchema = new mongoose.Schema(
       trim: true,
       maxLength: 50,
     },
+    slug: {
+      type: String,
+      required: true,
+      trim: true,
+      lowercase: true,
+    },
     // course educator
     educator: {
       type: String,
@@ -45,8 +51,15 @@ const courseSchema = new mongoose.Schema(
       type: Number,
       default: 0,
     },
+    thumbnail: {
+      type: String,
+      default: "",
+    },
+    description: {
+      type: String,
+    },
   },
   { timestamps: true }
 );
 
-export default mongoose.model('Course', courseSchema)
+export default mongoose.model("Course", courseSchema);

@@ -1,81 +1,111 @@
 [{
-        "name": "Web Development Fundamentals",
+        "name": "Introduction to JavaScript",
         "educator": "John Doe",
         "duration": 20,
         "courseType": "Practical",
-        "category": "webdev",
-        "price": 50
+        "category": "Technology",
+        "price": 50,
+        "slug": "introduction-to-javascript",
+        "thumbnail": "https://example.com/javascript_thumbnail.jpg",
+        "description": "Learn the basics of JavaScript programming."
     },
     {
-        "name": "App Development Basics",
+        "name": "Biology Basics",
         "educator": "Jane Smith",
         "duration": 15,
         "courseType": "Knowledge",
-        "category": "appdev",
-        "price": 40
+        "category": "Science",
+        "price": 40,
+        "slug": "biology-basics",
+        "thumbnail": "https://example.com/biology_thumbnail.jpg",
+        "description": "Explore the fundamental concepts of biology."
     },
     {
-        "name": "Blockchain Technology Explained",
+        "name": "Python Fundamentals",
         "educator": "Alice Johnson",
         "duration": 25,
         "courseType": "Practical",
-        "category": "blockchain",
-        "price": 60
+        "category": "Technology",
+        "price": 60,
+        "slug": "python-fundamentals",
+        "thumbnail": "https://example.com/python_thumbnail.jpg",
+        "description": "Get started with the basics of Python programming."
     },
     {
-        "name": "Introduction to Cybersecurity",
+        "name": "Introduction to Medicine",
         "educator": "Dr. Robert Johnson",
         "duration": 30,
         "courseType": "Knowledge",
-        "category": "security",
-        "price": 70
+        "category": "Medicine",
+        "price": 70,
+        "slug": "introduction-to-medicine",
+        "thumbnail": "https://example.com/medicine_thumbnail.jpg",
+        "description": "Learn about the foundational principles of medicine."
     },
     {
-        "name": "Web Application Security",
+        "name": "Data Science with Python",
         "educator": "Mark Davis",
         "duration": 40,
         "courseType": "Practical",
-        "category": "security",
-        "price": 80
+        "category": "Technology",
+        "price": 80,
+        "slug": "data-science-with-python",
+        "thumbnail": "https://example.com/datascience_thumbnail.jpg",
+        "description": "Discover the world of data science using Python."
     },
     {
-        "name": "React.js Essentials",
+        "name": "Mathematics for Beginners",
         "educator": "Emily Wilson",
         "duration": 12,
         "courseType": "Knowledge",
-        "category": "webdev",
-        "price": 35
+        "category": "Science",
+        "price": 35,
+        "slug": "mathematics-for-beginners",
+        "thumbnail": "https://example.com/math_thumbnail.jpg",
+        "description": "Build a strong foundation in mathematics."
     },
     {
-        "name": "Blockchain in Supply Chain",
+        "name": "Advanced Web Development",
         "educator": "Alex Brown",
         "duration": 50,
         "courseType": "Practical",
-        "category": "blockchain",
-        "price": 90
+        "category": "Technology",
+        "price": 90,
+        "slug": "advanced-web-development",
+        "thumbnail": "https://example.com/webdev_thumbnail.jpg",
+        "description": "Take your web development skills to the next level."
     },
     {
-        "name": "Ethical Hacking Fundamentals",
+        "name": "Anatomy and Physiology",
         "educator": "Dr. Samantha Roberts",
         "duration": 28,
         "courseType": "Knowledge",
-        "category": "security",
-        "price": 65
+        "category": "Medicine",
+        "price": 65,
+        "slug": "anatomy-and-physiology",
+        "thumbnail": "https://example.com/anatomy_thumbnail.jpg",
+        "description": "Explore the intricacies of anatomy and physiology."
     },
     {
-        "name": "Mobile App Development",
+        "name": "Machine Learning Basics",
         "educator": "Michael Smith",
         "duration": 22,
         "courseType": "Practical",
-        "category": "appdev",
-        "price": 55
+        "category": "Technology",
+        "price": 55,
+        "slug": "machine-learning-basics",
+        "thumbnail": "https://example.com/ml_thumbnail.jpg",
+        "description": "Get started with the fundamentals of machine learning."
     },
     {
-        "name": "Python for Data Science",
+        "name": "Physics Fundamentals",
         "educator": "David Johnson",
         "duration": 18,
         "courseType": "Knowledge",
-        "category": "data science",
-        "price": 45
+        "category": "Science",
+        "price": 45,
+        "slug": "physics-fundamentals",
+        "thumbnail": "https://example.com/physics_thumbnail.jpg",
+        "description": "Dive into the basics of physics and its principles."
     }
 ]
